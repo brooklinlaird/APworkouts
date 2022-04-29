@@ -21,7 +21,7 @@ static int FormatWorkout()
     return null;
 }
 
-static string diplayDrill()
+static string displayDrill()
 /// <summary>
 /// Displays the drills for each workout the user can do 
 /// </summary>
